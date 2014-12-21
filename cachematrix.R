@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix will create special memoized version of matrix.
+## cacheSolve will solve memoized matrix, trying to get cache result if called 
+## more than one time.
 
 ## Write a short comment describing this function
 
